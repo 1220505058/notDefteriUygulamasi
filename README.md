@@ -22,5 +22,6 @@ NotDefteri sınıfı, notlardaki değişiklikleri kullanıcı arayüzüne (UI) o
 OnemliNot sınıfı, mevcut Not nesnelerine yeni işlevsellik eklemek için Decorator desenini kullanır. Böylece notlara dinamik olarak yeni özellikler eklenebilir (örneğin, "Önemli" etiketi eklemek).
 5. Strategy
 NotSiralamaYoneticisi, sıralama işlemlerini farklı stratejilerle yönetir. TariheGoreSiralama ve OnemDerecesineGoreSiralama gibi farklı stratejiler, notların sıralanmasını özelleştirir.
-![Ekran Görüntüsü (216)](https://github.com/user-attachments/assets/b69bd1f2-e394-44c1-a101-0cc5f090d3b3)
 ![Ekran Görüntüsü (215)](https://github.com/user-attachments/assets/9f9d9ce1-4baf-4e48-9736-df2e7711cf66)
+![Ekran Görüntüsü (216)](https://github.com/user-attachments/assets/b69bd1f2-e394-44c1-a101-0cc5f090d3b3)
+
